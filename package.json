@@ -1,0 +1,19 @@
+{
+  "name": "ground-common-cmponenet",
+  "version": "0.1.0",
+  "description": "Layout of the project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "author": "Mohit Saxena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme"
+}
